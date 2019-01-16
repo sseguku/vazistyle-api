@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+api for buying rotary products and labels online with mobile money / airtel money and mpesa through out East Africa - Uganda, Kenya and Tz
 
-Things you may want to cover:
+:
 
-* Ruby version
+* json api
 
-* System dependencies
+* product ordering
 
-* Configuration
+* product management
 
-* Database creation
+* event management
 
-* Database initialization
+* user management
 
-* How to run the test suite
+* delivery
 
-* Services (job queues, cache servers, search engines, etc.)
+* purchases
 
-* Deployment instructions
-
-* ...
+* orders
